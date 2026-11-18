@@ -7,7 +7,7 @@ It also runs on regular phones and foldables, with touch buttons.
 
 **This is a fan project. It is not made or approved by Nintendo.**
 
-<!-- TODO: picture of the Thor, both screens, 3DS look -->
+<img src="images/thor-temple-of-time.png" alt="AYN Thor: Link in the Temple of Time on the top screen, the 3DS-style PLAY page with B and C buttons on the bottom" width="560">
 
 ---
 
@@ -60,6 +60,8 @@ Saves live in the **`SOH/Save`** folder on your device. Copy it somewhere safe n
 
 ## The second screen
 
+![The 3DS-style ITEMS page, the N64-style Select Item page, and the N64-style Equipment page](images/second-screen-pages.png)
+
 ### 3DS look (the default)
 
 - **PLAY page:** big **B** and **C** buttons. Tap or hold them to use your items.
@@ -71,7 +73,7 @@ Saves live in the **`SOH/Save`** folder on your device. Copy it somewhere safe n
 
 - The real pause-menu pages: **Items, Map, Quest, Equip**, drawn with the game's own art.
 - Tap gear on Equip to wear it.
-- Tap an item on Items, then pick a C button.
+- Tap an item on Items, then pick a C button. Or flick the **right stick** left, down or right. Up, or a tap anywhere else, closes it.
 - The map shows where Link is, in the world and in dungeons.
 
 The **Style** button switches between the two looks.
@@ -79,6 +81,11 @@ The **Style** button switches between the two looks.
 ### Title and file select
 
 Game-art scenes on the second screen. The fairies follow your finger.
+
+<p>
+<img src="images/thor-title.png" alt="AYN Thor: title screen ride on top, the Zelda logo and PRESS START on the bottom" width="360">
+<img src="images/thor-file-select.png" alt="AYN Thor: file select on top, a cloudy sky with three fairies on the bottom" width="360">
+</p>
 
 ### Controller
 
@@ -89,6 +96,18 @@ Game-art scenes on the second screen. The fairies follow your finger.
 - **⇅ button:** swap screens, or hide the second screen.
 - **Hold Back** (about 1 second): cycles swap, hide, and back to normal.
 - **L3 + R3:** press to hide or show the second screen. Hold to swap.
+
+---
+
+## Texture packs 🎨
+
+Ship of Harkinian texture packs work too. Put them in the **`SOH/mods`** folder.
+They go well with the 3DS look.
+
+![Temple of Time: the plain game on the left, with a 3DS-style texture pack on the right](images/texture-pack-compare.png)
+
+*Left: the plain game. Right: with Djipi's 3DS Experience and Skilar's Art Plus Link.*
+*Packs are not included. Get them from their makers.*
 
 ---
 
