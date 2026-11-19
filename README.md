@@ -62,19 +62,19 @@ Saves live in the **`SOH/Save`** folder on your device. Copy it somewhere safe n
 
 ![The 3DS-style ITEMS page, the N64-style Select Item page, and the N64-style Equipment page](images/second-screen-pages.png)
 
-### 3DS look (the default)
-
-- **PLAY page:** big **B** and **C** buttons. Tap or hold them to use your items.
-- **Ocarina button:** play the Ocarina, even when it isn't on a C button.
-- **Iron Boots and Hover Boots** switches.
-- **ITEMS page:** all your items. Tap an item, then a C button. Or drag it onto one.
-
-### N64 look
+### N64 look (the default)
 
 - The real pause-menu pages: **Items, Map, Quest, Equip**, drawn with the game's own art.
 - Tap gear on Equip to wear it.
 - Tap an item on Items, then pick a C button. Or flick the **right stick** left, down or right. Up, or a tap anywhere else, closes it.
 - The map shows where Link is, in the world and in dungeons.
+
+### 3DS look
+
+- **PLAY page:** big **B** and **C** buttons. Tap or hold them to use your items.
+- **Ocarina button:** play the Ocarina, even when it isn't on a C button.
+- **Iron Boots and Hover Boots** switches.
+- **ITEMS page:** all your items. Tap an item, then a C button. Or drag it onto one.
 
 The **Style** button switches between the two looks.
 
@@ -83,7 +83,7 @@ The **Style** button switches between the two looks.
 Game-art scenes on the second screen. The fairies follow your finger.
 
 <p>
-<img src="images/thor-title.png" alt="AYN Thor: title screen ride on top, the Zelda logo and PRESS START on the bottom" width="360">
+<img src="images/thor-title.png" alt="AYN Thor: the moonlit ride across Hyrule Field on top, the Zelda logo and PRESS START on the bottom" width="360">
 <img src="images/thor-file-select.png" alt="AYN Thor: file select on top, a cloudy sky with three fairies on the bottom" width="360">
 </p>
 
