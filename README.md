@@ -7,7 +7,7 @@ It also runs on regular phones and foldables, with touch buttons.
 
 **This is a fan project. It is not made or approved by Nintendo.**
 
-<img src="images/thor-temple-of-time.png" alt="AYN Thor: Link in the Temple of Time on the top screen, the 3DS-style PLAY page with B and C buttons on the bottom" width="560">
+<img src="images/thor-temple-of-time.png" alt="AYN Thor: Link in the Temple of Time on the top screen, the N64-style Select Item page on the bottom" width="560">
 
 ---
 
